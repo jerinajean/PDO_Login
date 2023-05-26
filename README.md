@@ -1,4 +1,4 @@
-# PDO_Login
+# PDO Connect, Login, and Insert
 You will need to setup first your xampp server and text editor (VSCODE, Sublime, Notepad++, etc)
 
 1. Download the whole repository
